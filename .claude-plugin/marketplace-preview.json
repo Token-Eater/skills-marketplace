@@ -26,6 +26,23 @@
       "category": "examples",
       "tags": ["testing", "preview", "development"],
       "source": "./skills/example-visibility-test"
+    },
+    {
+      "name": "graph-skills",
+      "description": "Build context-efficient, reusable skills using graph-based workflow orchestration with Claude Code subagents. Combines PocketFlow-inspired graph abstraction with multi-model optimization.",
+      "version": "1.0.0",
+      "author": "Kieran Steele + Claude",
+      "category": "orchestration",
+      "tags": ["graph", "workflow", "orchestration", "subagents", "multi-model", "context-efficiency", "cost-optimization"],
+      "license": "MIT",
+      "repository": "https://github.com/Token-Eater/skills-marketplace",
+      "source": "./skills/graph-skills",
+      "metadata": {
+        "status": "beta",
+        "security_verified": true,
+        "security_verifier": "https://github.com/bjulius/skill-evaluator",
+        "research_gist": "https://gist.github.com/Token-Eater/cfea8ce13c338188226aebeffa21c5f8"
+      }
     }
   ],
   "metadata": {
